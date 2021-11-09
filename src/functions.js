@@ -50,7 +50,7 @@ sayi1=sayi2
 sayi2=100
 console.log(sayi1)
 
-function addToCart4(x) {
+function addToCart4(products) {
     console.log(products)
 }
 
@@ -99,3 +99,5 @@ let newProductName,newProductPrice,newProductQuantity
     = {productName:"Elma",productPrice:10,productQuantity:5})
 
 console.log(newProductName)
+console.log(newUnitPrice)
+console.log(newQuantity)
